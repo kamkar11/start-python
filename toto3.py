@@ -42,4 +42,5 @@ for i in range(3):
 
     print("\n" + "x" * 40 + "\n")  # wydrukuj 40 znaków x
 
+
 print("Wylosowane liczby:", liczby)
