@@ -15,6 +15,7 @@ def deck():
             wynik.append((t))
     return wynik
 
+
 def shuffle_deck(wynik):
 
     random.shuffle(wynik)
