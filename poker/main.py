@@ -1,4 +1,5 @@
 from poker import *
+from poker.poker3 import Player, Deck, get_player_hand_rank
 
 num_players = 2
 players = []
